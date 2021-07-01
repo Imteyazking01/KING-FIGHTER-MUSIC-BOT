@@ -54,7 +54,7 @@ Happy Streaming 😉
                         "Channel 📣", url="https://t.me/King_MusicSupport"
                     ),
                     InlineKeyboardButton (
-                        "Tutorial 🎬", url="https://youtu.be/XaH7VHURBVg"
+                        "Owner", url="https://t.me/Imteyaz_king"
                     )
                 ]
             ]
