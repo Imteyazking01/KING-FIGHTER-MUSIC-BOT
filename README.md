@@ -18,7 +18,7 @@ Get STRING_NAME from here:
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://repl.it/@subinps/getStringName)
 
 ### Mandatory Vars.
-
+ 
 - Some Of The Mandatory Vars Are :-
    - `API_ID` :  Give API_ID of your Alternate Telegram Account.
    - `API_HASH` :  Give API_HASH of your Alternate Telegram Account.
