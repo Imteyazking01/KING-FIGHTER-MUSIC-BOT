@@ -12,18 +12,18 @@ async def helper(ok, message: Message):
         f"""💞 Hello! Following are the commands available for **{bn}** - __A Group Voice Chat Music Player__.
 The commands I currently support are:
 
-🔥 **Users Commands :**
-⚜️ /play - **[ Groups Only ]** > __Plays the replied audio file or YouTube video through link.__
-⚜️ /song - **[ Groups & DM ]** > __Uploads the searched song in the chat.__
-⚜️ /ytplay - **[ Groups Only ]** > __Plays the song directly from YouTube Search.__
-⚜️ /repo - **[ DM Only ]** > __Gets the source code and YouTube Tutorial Video.__
+⚔️ **Users Commands :**
+⚔️ /play - **[ Groups Only ]** > __Plays the replied audio file or YouTube video through link.__
+⚔️ /song - **[ Groups & DM ]** > __Uploads the searched song in the chat.__
+⚔️ /ytplay - **[ Groups Only ]** > __Plays the song directly from YouTube Search.__
+⚔️ /repo - **[ DM Only ]** > __Gets the source code and YouTube Tutorial Video.__
 
 
 🔰 **Admin & Sudo Users Commands :**
-⚜️ /pause - **[Groups Only ]** > __Pause Voice Chat Music.__
-⚜️ /resume - **[Groups Only ]** > __Resume Voice Chat Music.__
-⚜️ /skip - **[Groups Only ]** > __Skips the current Music Playing In Voice Chat.__
-⚜️ /stop - **[Groups Only ]** > __Clears The Queue as well as ends Voice Chat Music.__""")
+⚔️ /pause - **[Groups Only ]** > __Pause Voice Chat Music.__
+⚔️ /resume - **[Groups Only ]** > __Resume Voice Chat Music.__
+⚔️ /skip - **[Groups Only ]** > __Skips the current Music Playing In Voice Chat.__
+⚔️ /stop - **[Groups Only ]** > __Clears The Queue as well as ends Voice Chat Music.__""")
 
 @Client.on_message(command("help") & other_filters)
 async def ghelp(_, message: Message):
