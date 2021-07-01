@@ -1,5 +1,5 @@
 {
-  "name": "MusicBot",
+  "name": "KING FIGHTER Music Bot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/TheVaders/MusicBot",
@@ -16,7 +16,7 @@
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
       "required": false,
-      "value": "Hêllẞø†"
+      "value": "KING_FIGHTER_MUSIC_BOT"
     },
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
@@ -33,7 +33,7 @@
     "PLAY_PIC": {
       "description": "Paste a telegraph link that you want to display when someone plays a song",
       "required": false,
-      "value": "https://telegra.ph/file/67592f9fad95997fce400.jpg"
+      "value": "https://telegra.ph/file/989dc8b984037d7ea282d.jpg"
     },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
