@@ -10,6 +10,7 @@
 <h2 align="centre">⚙️ Set Up ⚙️</h3>
 
 <h3 align="centre"> Heroku </h4>
+https://psfmember.org/civicrm/contribute/transact
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
